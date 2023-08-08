@@ -1,2 +1,7 @@
-# programmers
-프로그래머스 코딩테스트 연습
+# 프로그래머스 알고리즘 스터디
+- 2023년 8월 8일 ~ 2023년 8월 14일 문제 리스트
+  | LEVEL | 문제 URL |
+  | --- | --- |
+  | `LEVEL 1` | [포켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) |
+  | `LEVEL 2` | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) |
+  | `LEVEL 3` | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) |
