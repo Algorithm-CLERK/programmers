@@ -47,6 +47,7 @@
 .idea/modules.xml
 .idea/programmers.iml
 .idea/vcs.xml
+.idea/workspace.xml
 
 # CMake
 cmake-build-*/
