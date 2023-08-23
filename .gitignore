@@ -43,6 +43,10 @@
 # .idea/modules
 # *.iml
 # *.ipr
+.idea/misc.xml
+.idea/modules.xml
+.idea/programmers.iml
+.idea/vcs.xml
 
 # CMake
 cmake-build-*/
