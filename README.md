@@ -21,7 +21,5 @@
   | LEVEL | 문제 URL |
   | --- | --- |
   | `LEVEL 1` | [카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) |
-  | `LEVEL 2` | [다음 큰 숫자
-](https://school.programmers.co.kr/learn/courses/30/lessons/12911) |
-  | `LEVEL 3` | [야근 지수
-](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |
+  | `LEVEL 2` | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) |
+  | `LEVEL 3` | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |
