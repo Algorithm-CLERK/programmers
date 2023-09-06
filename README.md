@@ -23,3 +23,9 @@
   | `LEVEL 1` | [카드뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) |
   | `LEVEL 2` | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) |
   | `LEVEL 3` | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) |
+- 2023년 9월 6일 ~ 2023년 9월 12일 문제 리스트   
+  | LEVEL | 문제 URL |
+  | --- | --- |
+  | `LEVEL 1` | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) |
+  | `LEVEL 2` | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) |
+  | `LEVEL 3` | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |
