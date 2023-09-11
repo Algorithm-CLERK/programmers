@@ -29,5 +29,5 @@
   | `LEVEL 1` | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) |
   | `LEVEL 2` | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) |
   | `LEVEL 3` | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |
-  | `서영코`  | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |
+  | `서영코`  | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
   | `윤아짱`  | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) |
