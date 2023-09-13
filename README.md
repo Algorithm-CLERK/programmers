@@ -31,3 +31,9 @@
   | `LEVEL 3` | [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938) |
   | `서영코`  | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
   | `윤아짱`  | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) |
+- 2023년 9월 13일 ~ 2023년 9월 19일 문제 리스트   
+  | LEVEL | 문제 URL |
+  | --- | --- |
+  | `LEVEL 1` | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) |
+  | `LEVEL 2` | [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |
+  | `LEVEL 3` | [최적의 행렬 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12942) |
