@@ -36,4 +36,10 @@
   | --- | --- |
   | `LEVEL 1` | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) |
   | `LEVEL 2` | [멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |
-  | `LEVEL 3` | [최적의 행렬 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12942) |
+  | `LEVEL 3` | [최적의 행렬 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12942) |   
+- 2023년 9월 23일 ~ 2023년 9월 29일 문제 리스트   
+  | LEVEL | 문제 URL |
+  | --- | --- |
+  | `LEVEL 1` | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) |
+  | `LEVEL 2` | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |
+  | `LEVEL 3` | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |
